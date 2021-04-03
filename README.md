@@ -1,4 +1,4 @@
-# AWS Kinesis Examples
+# Amazon Kinesis Examples
 
 This project contains examples of how to stream tweets to AWS Kinesis data streams using the SDK v2, Kinesis producer
 Library and Kinesis Client Library.
